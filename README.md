@@ -5,9 +5,9 @@
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set. The goal is to prepare a tidy data that can be used for later analysis. 
 
 I am required to submit: 
-1. a tidy data set as described below,
-2. a link to a Github repository with your script for performing the analysis, and 
-3. a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
+- a tidy data set as described below,
+- a link to a Github repository with your script for performing the analysis, and 
+- a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
 
 I should also include a `README.md` (actually the file you are currently reading) in the repo with your scripts. This file explains how all of the scripts work and how they are connected.  
 
@@ -28,11 +28,11 @@ Please read the `CodeBook.md` for more information about the raw data and all th
 #### Summary of the assessment goal
 
 I should create one R script called run_analysis.R that does the following:
-1. Merges the training and the test sets to create one data set.
-2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-3. Uses descriptive activity names to name the activities in the data set
-4. Appropriately labels the data set with descriptive variable names. 
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+- Merges the training and the test sets to create one data set.
+- Extracts only the measurements on the mean and standard deviation for each measurement. 
+- Uses descriptive activity names to name the activities in the data set
+- Appropriately labels the data set with descriptive variable names. 
+- From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
 ### Details about this work
